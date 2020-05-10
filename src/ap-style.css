@@ -94,6 +94,6 @@ li {
   white-space: nowrap;
 }
 
-small {
+.repository-link {
   justify-content: center;
 }
